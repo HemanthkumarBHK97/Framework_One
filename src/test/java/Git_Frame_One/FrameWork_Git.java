@@ -15,8 +15,15 @@ public class FrameWork_Git {
 		System.setProperty(key, value);
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://localhost:8888");
+		/**
+		 * kdbksbd
+		 * sd,nc,sdn
+		 * 
+		 */
+		System.out.println("re commited");
+		System.out.println("Hemnth");
 		
+		System.out.println("Hello");
 		
-		System.Out.println("Hello");
 	}
 }
