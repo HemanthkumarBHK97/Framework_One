@@ -14,6 +14,9 @@ public class FrameWork_Git {
 		String value="./chromedriver.exe";
 		System.setProperty(key, value);
 		WebDriver driver = new ChromeDriver();
-		driver.get("http://localhost:8888");	
+		driver.get("http://localhost:8888");
+		
+		
+		System.Out.println("Hello");
 	}
 }
